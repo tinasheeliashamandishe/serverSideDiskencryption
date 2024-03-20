@@ -35,6 +35,6 @@ Go to your VM, Deallocate the VM and go to Encryption, select the disk you want 
 <img src="https://i.imgur.com/VZXCKyH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
 
 <h4>Step 5</h4> 
-The new disk is now ready for use on the virtual machine server<br/>
+The new disk is now encrypted using Azure Server-side encryption<br/>
 <img src="https://i.imgur.com/W9mzewH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
 
