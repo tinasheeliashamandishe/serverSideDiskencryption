@@ -1,7 +1,7 @@
 <h1>Encrypt a Data disk using Azure Server-Side disk encryption</h1>
 
 <h2>Description</h2>
-This lab will Encrypt a Data disk using Azure Server-Side disk encryption. The encryption willbe done using Customer Managed Keys.<br />
+This lab will Encrypt a Data disk using Azure Server-Side disk encryption. The encryption will be done using Customer Managed Keys.<br />
 This lab assumes that you have already created a Windows virtual machine server, and added a data disk to the machine.
 <br />
 
