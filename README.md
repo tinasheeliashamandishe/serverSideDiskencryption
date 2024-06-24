@@ -25,7 +25,7 @@ In the Key Vault Resource, Generate a new Key.<br/>
 <br />
 
 <h4>Step 3</h4> 
-Create a Disk Encryption Sets Rescource<br/>
+Create a Disk Encryption Set Rescource<br/>
 <img src="https://i.imgur.com/LBcBZcy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
 
 <br />
